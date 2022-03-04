@@ -6,6 +6,12 @@
   <img align="center" src="https://miro.medium.com/max/1280/1*QFF8CB7ARYVenba7Jm-jWg.png">
 </p>
 
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=OdLeRR4rvt0"><img src="https://i.ytimg.com/an_webp/OdLeRR4rvt0/mqdefault_6s.webp?du=3000&sqp=CJPxhJEG&rs=AOn4CLCJtx_B5fk2n362cTTdvmhYifsccg" alt="Explainer Video Link"></a>
+</div>
+
 ### Medium Article
 In this [Medium Article](https://towardsdatascience.com/optimize-workforce-planning-using-linear-programming-with-python-47a0b5f89a6f), we will build a linear optimization to 
 calculate the number of workers needed to ensure the right ressources allocation while reducing costs.
