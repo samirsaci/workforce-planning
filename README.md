@@ -12,8 +12,8 @@ Find in the link below a short animated explained video to understand the concep
   <a href="https://www.youtube.com/watch?v=OdLeRR4rvt0"><img src="https://i.ytimg.com/an_webp/OdLeRR4rvt0/mqdefault_6s.webp?du=3000&sqp=CJPxhJEG&rs=AOn4CLCJtx_B5fk2n362cTTdvmhYifsccg" alt="Explainer Video Link"></a>
 </div>
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/optimize-workforce-planning-using-linear-programming-with-python-47a0b5f89a6f), we will build a linear optimization to 
+### Article
+In this [Article](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/), we will build a linear optimization to 
 calculate the number of workers needed to ensure the right ressources allocation while reducing costs.
 
 ![This is an image](https://miro.medium.com/max/570/1*q5QLkE49X7RIy5CZx_yCtw.png)
