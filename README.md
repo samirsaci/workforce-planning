@@ -9,7 +9,7 @@
 ### Youtube Video
 Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=OdLeRR4rvt0"><img src="https://i.ytimg.com/an_webp/OdLeRR4rvt0/mqdefault_6s.webp?du=3000&sqp=CJPxhJEG&rs=AOn4CLCJtx_B5fk2n362cTTdvmhYifsccg" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=OdLeRR4rvt0"><img src="https://github.com/samirsaci/workforce-planning/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
 
 ### Article
