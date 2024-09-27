@@ -3,7 +3,8 @@
 
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/1280/1*QFF8CB7ARYVenba7Jm-jWg.png">
+  <img alt="A diagram showing different aspects of the workforce planning problem, including time constraints, tasks planning, schedule constraints, workload forecasting, and workforce planning. The diagram outlines how these factors interact to optimize workforce management with Python."
+    align="center" src="https://miro.medium.com/max/1280/1*QFF8CB7ARYVenba7Jm-jWg.png">
 </p>
 
 ### Youtube Video
