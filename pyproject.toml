@@ -1,0 +1,11 @@
+[project]
+name = "workforce-planning"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "pulp>=3.3.0",
+]
