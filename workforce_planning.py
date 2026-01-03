@@ -41,7 +41,6 @@ def build_and_solve_model(n_days, list_excl, n_staff):
     model += lpSum([x[i] for i in n_days])
 
     # Constraints: meet daily staff demand
-    # Workers are available on days they're NOT off
     for d, l_excl, staff in zip(n_days, list_excl, n_staff):
         model += lpSum([x[i] for i in n_days if i not in l_excl]) >= staff
 
@@ -165,7 +164,7 @@ def main():
     # Display results
     df_staff = display_results(model, df_sch, n_staff, jours)
 
-    # Plot results (save to file instead of showing in terminal)
+    # Plot results
     plot_results(df_staff, save_path="workforce_chart.png")
 
     return df_sch, df_staff
